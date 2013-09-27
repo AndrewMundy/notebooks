@@ -1,4 +1,6 @@
-notebooks
+Notebooks
 =========
+A collection of my IPython notebooks, not really for
+public consumption.
 
-IPython Notebooks - Rough
+_Here be dragons._
